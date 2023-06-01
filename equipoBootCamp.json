@@ -1,1 +1,11 @@
-
+{
+  "nombreEquipo":"Dev Boot Camp",
+  "numeroEquipo":6,
+  "integrantes":[
+    {
+      "nombre":"",
+      "apellido":"",
+      "discord":""
+    }
+  ]
+}
